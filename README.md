@@ -17,7 +17,7 @@
 * **Swift Concurrency**: Employed for managing reactive programming and asynchronous events.
 ## Networking
 * **Alamofire**: A popular library used for network calls.
-* * **Kingfisher**: A popular library used for downloading images from web.
+* **Kingfisher**: A popular library used for downloading images from web.
 * **Networking**: A custom service built on top of Alamofire, implementing a Decorator or Proxy pattern. This design allows for easy substitution of the underlying networking framework without changing the higher-level code that relies on it.
 ## Dependency Injection
 * **DIContainer**: A custom, lightweight dependency injection service to manage the app's dependencies efficiently.
